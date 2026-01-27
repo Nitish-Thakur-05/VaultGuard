@@ -357,7 +357,10 @@ const SettingModal = ({ setActiveSection }) => {
                   idhoster4@gmail.com.
                 </p>
                 <p>
-                  <b style={{ color: "#24dbc9" }}>Github: </b> https/google.com
+                  <b style={{ color: "#24dbc9" }}>Github: </b>{" "}
+                  <a href="https://shorturl.at/iwWDD" style={{color: "white"}}>
+                    https://shorturl.at/iwWDD
+                  </a>
                 </p>
 
                 <p
