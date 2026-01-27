@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+label {
+  padding-left: 7px;
+  margin-bottom: 5px;
+  font-weight: 500;
+  color: #94a3b8;
+}
+
+.input {
+  background-color: #0b0f14;
+  color: rgba(255, 255, 255, 0.87);
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  height: 35px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding-inline: 18px;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+
+.showPassIcon {
+  position: absolute;
+  top: 38%;
+  right: 8%;
+}
+
+.input:focus {
+  box-shadow: 0 0 10px rgba(36, 241, 220, 0.6);
+}
