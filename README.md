@@ -1,9 +1,9 @@
 🔐 VaultGuard Application
 
-📌 Overview
+📌 Overview<br />
 The Password Manager is a secure and responsive web application built using React and Firebase. It allows users to manage their credentials with authentication and cloud-based storage. The project demonstrates modern frontend development practices along with backend integration using Firebase services.
 
-🚀 Features
+🚀 Features<br />
 User Registration and Login (Firebase Authentication)<br />
 Google Sign-In (OAuth Authentication)<br />
 Secure cloud storage using Firebase Firestore<br />
